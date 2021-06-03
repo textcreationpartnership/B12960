@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the maintaining and increase of the mines of saltpeter, and the true making and working of saltpeter and gunpowder, and reforming of all abuses concerning the same.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12960</idno><idno type="EEBO-CITATION">99892415</idno>
+  <idno type="VID">185685</idno>
+  <idno type="EEBO-PROQUEST">2240934182</idno>
+  
+            <idno type="STC">STC 8863</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.11[95]</idno>
+            <idno type="PROQUEST">ocm99892415</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892415e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185685)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:2[96])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the maintaining and increase of the mines of saltpeter, and the true making and working of saltpeter and gunpowder, and reforming of all abuses concerning the same.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVII. [1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Ampthell, the three and twentieth day of Iuly, in the third yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 11; Steele notation: serious that 2) Domi- 3) Doue- 4) and punish-.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mining law --  England --  Early works to 1800.</term>
+               <term type="topical_term">Saltpeter industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Gunpowder industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:185685:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the Tudor rose on one side and the Scottish thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">¶ A Proclamation for the maintaining and increase of the Mines of Saltpeter, and the true making and working of Saltpeter and Gunpowder, and reforming of all abuses concerning the same.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings most Excellent MAIESTIE, taking into his serious</hi> and prouident consideration and care, the most important vse of Salt<g ref="char:EOLhyphen"/>peter and Gunpowder, aswell for the supply of his owne Nauy Royal, and other the shipping of His louing Subiects, as also for the strength, safety, and defence of His people and Kingdomes, especially in these times of Hostility and danger; And calling to His Princely remem<g ref="char:EOLhyphen"/>brance, how great a blessing of Almighty God it is vnto this Realme, that it naturally yeeldeth sufficient Mines of Saltpeter, for making of Gunpowder for the ordinary store thereof, without the vncertaine and hazzardous dependance vpon prouisions from forreigne parts, if those Mines and meanes be husbanded, and prouident<g ref="char:EOLhyphen"/>ly vsed for the best aduantage of the seruice; And remembring also, that His Maiestie not long since, by His Royall Proclamation, hath made knowen his Princely care and prouidence, to fur<g ref="char:EOLhyphen"/>nish himselfe and his Kingdomes with Saltpeter, by a new inuention offered vnto His Maiestie, and found probable to take some good effect, whereby he might in time to come, ease His louing Subiects of those troubles and charges in digging for Saltpeter in the old and approoued way, which cannot otherwise be auoided; And being informed, that the apprehension of this new In<g ref="char:EOLhyphen"/>uention hath giuen occasion to diuers, to oppose the Saltpeter men, working in the old and ordi<g ref="char:EOLhyphen"/>nary way, by vertue of his Maiesties Commission and instructions, which out of any new fancie, or imagination, may not in the meane time be neglected; Hath with the aduice of His Priuie Coun<g ref="char:EOLhyphen"/>sell, thought fit to quicken the former Orders and Constitutions, made and published in the first yeere of his Maiesties Reigne, with some additions, and explanations, for his better seruice, and the seruice and safety of his whole Kingdomes and Dominions, which Orders and Consti<g ref="char:EOLhyphen"/>tutions, as they are hereafter expressed in these Articles following: His Maiestie straitly willeth and commandeth shall be from henceforth inuiolably kept and obserued, by all persons whom it shall concerne respectiuely, for the better maintaining, increasing and getting of Saltpeter, and true making of Gunpowder, &amp; for the suppressing &amp; reforming of all abuses concerning the same.</p>
+            <pb facs="tcp:185685:2"/>
+            <p>
+               <list>
+                  <item> 1. FIrst, That no person or persons whatsoeuer within this Kingdome of <hi>England,</hi> or Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> doe from henceforth paue with Stone or Bricke, or floore with board, any Douehouse or Doue-coat, or lay the same with Lime, Sand, Grauel, or other thing, wher<g ref="char:EOLhyphen"/>by the growth and increase of the Myne of Saltpeter may be hindered or impayred but shall suf<g ref="char:EOLhyphen"/>fer the Floore, or Ground thereof, to lye open with good and mellow earth, apt to breed increase of the said Mine and Saltpeter, and so continue and keepe the same.</item>
+                  <item>2. THat no Inne-keepers, or others that keepe Stables for Trauailers and Passengers, doe vse any deceitfull meanes or deuices, whereby to destroy or hinder the growth of Saltpeter in those Stables, And that no Stables at all be pitched, paued, or grauelled, where the horse feete vse to stand, but planked onely, nor bee paued, pitched, or grauelled before the plankes next the Mangers, but that both places bee kept and maintained with good and mellow earth, fit and apt to breed and increase the Mine of Saltpeter, and layd with nothing which may hurt the same.</item>
+                  <item>3. That all and euery such person and persons, as hauing heretofore had any Doue-house, Doue-coat, or Stable, Teller or Ware house, which were then good nourceries for the breed of Mine of Saltpeter, haue sithence caried out the good Mould from thence, and fil<g ref="char:EOLhyphen"/>led the place againe with Lime, Grauell, Sand, Rubbish, or other like Stuffe, or paued or floo<g ref="char:EOLhyphen"/>red the same, wherby the growth of Saltpeter Mine there hath been decayed or destroyed, Shal, and doe within three moneths next comming, take vp the said Pauements and Boards againe, and cary out the sayd Grauell, Lime, and offensiue stuffe from thence, and fill the place againe with good and mellow earth, fit for the increase of Saltpeter, three foote deepe at the least, and so con<g ref="char:EOLhyphen"/>tinue and keepe the same for the breede of Saltpeter Mine.</item>
+                  <item>4. THat no person or persons, of what degree or estate soeuer, shall hinder or denie any Salt<g ref="char:EOLhyphen"/>peter-man, lawfully deputed thereunto, in the digging, taking, or working of any Ground, Walles, or earth, which by Commission may be taken and wrought for Salt<g ref="char:EOLhyphen"/>peter; Nor any Constable, or other Officer, doe, or shall forbeare, or neglect to furnish any such Salpeter-man with conuenient Cariages necessary for his worke at the prices of foure pence the mile, limited, and allowed, and so long as the Saltpeter-men performe their vndertakings to His Maiestie, in and by His Commission, for the encouragement of the Saltpeter-men in these times of danger and necessitie; And that all and euery Iustice and Iustices of the Peace, of any County, Citie, or Corporations, to whom the said Saltpeter-man shall addresse himselfe for assistance, doe not faile at his and their perils, to take present course therein, that His Maiesties Seruice suffer not by his or their default.</item>
+                  <item>5. THat whensoeuer any old house or building in <hi>London,</hi> or within three miles thereof, shall be pulled downe, and the Earth or Rubbish is to be caried away or remooued, That be<g ref="char:EOLhyphen"/>fore any part therof be stirred or remoued, there be notice therof giuen at the Kings store<g ref="char:EOLhyphen"/>house for the making of Saltpeter in <hi>Southwarke,</hi> and that the Deputy or workemen for Saltpe<g ref="char:EOLhyphen"/>ter, doe, and may first take so much of the said Earth or Rubbish, as in their iudgement and expe<g ref="char:EOLhyphen"/>rience is fittest for Saltpeter for the Kings Seruice.</item>
+                  <item>6. THat no person or persons, shall directly or indirectly, giue or offer to any Saltpeter-ma<g ref="char:EOLhyphen"/>ker, deputy Saltpeter-man, or others imployed about the getting or making of Saltpe<g ref="char:EOLhyphen"/>ter, any Gratuity, Benefit, Hire or Reward; Nor any such workeman imployed about Saltpeter, shall take or receiue any such Gratuity, Benefit, Hire, or Reward, for the sparing or forbearing of any ground or place, which should, or may be digged or wrought for Saltpeter, or of any Cariages thereunto belonging, or for concealing, or not discouering of any offence or offences committed against the true meaning of this Proclamation, or otherwise to the hinderance of this Seruice.</item>
+                  <item>7. THat no Saltpeter-man, who shall hereafter vse and take the Earth, or Floore of any Doue house, or Doue-coat, for their making of Saltpeter, shall digge or carie the same Earth, but in such conuenient time of the day, and worke it in such manner, as may giue least disturbance and hurt to the Pigeons, and increase of their breede, and in the chiefe times of their breeding, that it be not done aboue two houres in any one day, and that about the middest of the day, when the Pigeons vse to be abroad; And shall in like seasonable time carie in the sayd
+<pb facs="tcp:185685:3"/>Earth after it shall be wrought, and spread it there, and make flat the Floore of the same Doue<g ref="char:EOLhyphen"/>house and Doue-coat, and leaue it well and orderly, according to the direction and instructions gi<g ref="char:EOLhyphen"/>uen by His Maiesties Commission, and the Deputation thereupon made.</item>
+                  <item>8. THat all Saltpeter-men, and workers in Saltpeter, after they haue broken any other sorts of Ground, and wrought ouer the Earth taken from thence, doe, and shall after<g ref="char:EOLhyphen"/>wards, within conuenient time, before the remoue of their worke from thence, fill vp the place againe, and leaue it in such good and orderly case as conueniently may bee, according to their instructions aforesaid: And that no owner, or possessour of any Douehouse, or Grounds, shall hinder or disturbe any workeman from doing what is prescribed in this, and the next precedent Article.</item>
+                  <item>9. THat no Saltpeter-man, or maker of Saltpeter, doe at any time hereafter transport or cause to bee transported into the parts beyond the Seas, or sell, giue, vtter or put to salt, or cause to be sold, vttered, or put to sale, within the said Realme or Dominion, any Salt<g ref="char:EOLhyphen"/>peter, made within the said Realme of <hi>England,</hi> but only to His Maiesties Storehouse, to His Ma<g ref="char:EOLhyphen"/>iesties Powder-maker there; And that no person presume to buy any Saltpeter made by ver<g ref="char:EOLhyphen"/>tue of His Maiesties Commission, but his Maiesties Powder-maker onely, to whome it shall not be lawfull to receiue for any Powder to bee sold by him to His Maiesties Subiects, aboue tenne pence the pound.</item>
+                  <item>10. THat no Powder whatsoeuer, either made within the Realme, or imported from For<g ref="char:EOLhyphen"/>reigne parts, bee hereafter sold or vttered within this Realme, or Dominions a<g ref="char:EOLhyphen"/>foresayd, by any person or persons, before the same be first tried, prooued, and allowed by the sworne Proofe-master already appointed, or to bee appointed, and by him marked as hath beene heretofore vsed, whereby His Maiesties louing Subiects may take notice of the sorts of the said Gunpowder, and the goodnesse thereof, and the vses to which it may most aptly bee applyed.</item>
+                  <item>11. THat no person presume or attempt to counterfeit the Marke or Markes, vsed, or to bee vsed by the sayd Proofe-master, to the purpose aforesayd, or doe worke or put in practize any fraud, deceit, or sleight, by mixing or mingling any Gunpowder, or other<g ref="char:EOLhyphen"/>wise, whereby His Maiesties meaning before expressed, may be altered, diuerted or abused.</item>
+                  <item>12. THat the Proofe-master appointed and to bee appointed, doe diligently attend to doe his duety faithfully and truely, in making proofe of the said Gunpowder, and to marke none but that which shall bee good and sufficient, and answerable to the Markes; And that hee take not aboue sixe pence Fee, for any Barrell of Powder of one hundred weight, which shall by him bee tryed, prooued, and marked, as aforesayd, and so proportionably not aboue that rate, for greater or lesser quantities.</item>
+               </list>
+            </p>
+            <p>All which Articles, and euery of them, His Maiestie doeth hereby straitly charge and com<g ref="char:EOLhyphen"/>mand all manner of persons of what qualitie soeuer they be, duely to obserue and fulfill. And all Officers and persons in authoritie, whom it may concerne duely, carefully and diligently to see, and cause the same to bee obserued, fulfilled and put in execution, as they and euery of them will auoyd His Maiesties heauy displeasure, and the Censure of beeing holden contemners of His Maiesties Royall Commandement, in a matter of high consequence, for the publique Ser<g ref="char:EOLhyphen"/>uice and safetie of the State, and vpon such further penalties and punishments, as for exam<g ref="char:EOLhyphen"/>ple of terrour to others, their contempts and wants of duety shall demerice, and by his Maiesties Prerogatiue Royall, or otherwise shall bee found fit, in Honour and Iustice, to bee inflicted vpon them.</p>
+            <pb facs="tcp:185685:4"/>
+            <p> And, for the better and more speedie performance of this Seruice, His Maiesties will and pleasure is, That the Officers for the Ordnance shall from time to time take notice of all such Complaints as shall be brought vnto them, touching any offence that shall bee committed con<g ref="char:EOLhyphen"/>trary to this Proclamation, either in the neglecting, hindering or disturbing this His Maie<g ref="char:EOLhyphen"/>sties Seruice, or in abusing the Subiect: And that the said Officers of the Ordnance shall certifie the same to his Maiesties Right Trustie and Right welbeloued Cousin and Counsellor, <hi>George</hi> Duke of <hi>Buckingham,</hi> Lord high Admirall of <hi>England,</hi> and to His Right Trustie and wel<g ref="char:EOLhyphen"/>beloued Cousin and Counsellour, <hi>George</hi> Earle of <hi>Totnes,</hi> Master of the Ordnance, to whose speciall trust and care, His Maiestie hath committed the gouernment of the said businesse, by Commission vnder the great Seale of <hi>England;</hi> And that they or either of them, shall from time to time send for all offendors complained of, and cause them to be examined by the said Of<g ref="char:EOLhyphen"/>ficers of the Ordnance; And vpon their report, take such further order therein, by referring the offendors to bee prosecuted in the high Court of Starre-thamber, or otherwise, as to their wise<g ref="char:EOLhyphen"/>domes shall seeme meete; Commanding and authorizing His Maiesties Attourney Generall for the time being, vpon such reference from the said Duke of <hi>Buckingham,</hi> or Earle of <hi>Totnes,</hi> or other Information giuen vnto him, of any misdemeanour, committed contrary to the true mea<g ref="char:EOLhyphen"/>ning of any the Articles aforesayd, to prosecute, and proceede against the said offendors in the said high Court of Starre-chamber: It being His Maiesties expresse pleasure, That seuere punish<g ref="char:EOLhyphen"/>ment shall be executed vpon all the said offendors whatsoeuer.</p>
+            <closer>
+               <dateline>Giuen at Our Court at Ampthell, <date>the three and twentieth day of Iuly, in the third yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
